@@ -1,0 +1,11 @@
+{
+  "employeeName" : "Yash",
+  "phoneNumber" : "+919876543210",
+  "dateOfBirth" : "2020-05-17T09:59:32.487Z",
+  "address": {
+		"address1" : "some random address",
+		"zipCode" : 110056,
+		"city" : "New Delhi",
+		"country" : "India"
+  }
+}
